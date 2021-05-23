@@ -32,9 +32,9 @@
 ## Installation
 
 
- ### click [here](https://github.com/jagrosh/MusicBot/wiki/Setup) to watch my YouTube video !
+ ### Click [here](https://github.com/jagrosh/MusicBot/wiki/Setup) to watch my YouTube video !
 
 
- ### click here to join my [discord server](https://discord.gg/9ZrzNkzeN4)
+ ### Click here to join my [discord server !](https://discord.gg/9ZrzNkzeN4)
 
 ![](https://github.com/mrmotchy/stuff/blob/main/Unben111annt.PNG)
