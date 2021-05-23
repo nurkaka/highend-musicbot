@@ -30,7 +30,7 @@
 ![](https://github.com/mrmotchy/stuff/blob/main/Unbenannt.PNG)
 
 ## Installation
-
+![Loading Example...](https://imgur.com/a/TgYwwvu)
 
  ### Click [here](https://) to watch my YouTube video !
 
