@@ -32,7 +32,7 @@
 ## Installation
 
 
- ### Click [here](https://github.com/jagrosh/MusicBot/wiki/Setup) to watch my YouTube video !
+ ### Click [here](https://) to watch my YouTube video !
 
 
  ### Click here to join my [discord server !](https://discord.gg/9ZrzNkzeN4)
