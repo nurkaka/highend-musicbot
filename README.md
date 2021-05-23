@@ -1,3 +1,7 @@
+<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+
+# el música
+
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://discord.gg/9ZrzNkzeN4)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
 [![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
