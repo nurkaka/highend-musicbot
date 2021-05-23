@@ -25,6 +25,10 @@
   * Supports local files
   * Playlist support (both web/youtube, and local)
   * custom server prefix
+
+## Personalized server dashboard
+
+![](https://github.com/mrmotchy/stuff/blob/main/222Unbenannt.PNG)
   
   
 ## High professional discord music bot made with ❤️ and javascript
