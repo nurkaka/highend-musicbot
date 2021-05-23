@@ -26,7 +26,7 @@
   * Playlist support (both web/youtube, and local)
   
   
-## high professional discord music bot 
+## High professional discord music bot 
 
 ![](https://github.com/mrmotchy/stuff/blob/main/Unbenannt.PNG)
 
