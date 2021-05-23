@@ -11,6 +11,18 @@
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://discord.gg/9ZrzNkzeN4)
 [![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://discord.gg/9ZrzNkzeN4)
 
+## Features
+  * Easy to run (just make sure Java is installed, and run!)
+  * Fast loading of songs
+  * No external keys needed (besides a Discord Bot token)
+  * Smooth playback
+  * Server-specific setup for the "DJ" role that can moderate the music
+  * Clean and beautiful menus
+  * Supports many sites, including Youtube, Soundcloud, Spotify and more
+  * Supports many online radio/streams
+  * Supports local files
+  * Playlist support (both web/youtube, and local)
+  
 ## high professional discord music bot 
 
 ![](https://github.com/mrmotchy/stuff/blob/main/Unbenannt.PNG)
