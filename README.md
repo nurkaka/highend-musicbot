@@ -11,6 +11,8 @@
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://discord.gg/9ZrzNkzeN4)
 [![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://discord.gg/9ZrzNkzeN4)
 
+[![Setup](http://i.imgur.com/VvXYp5j.png)](https://www.youtube.com/channel/UCmkPzf-eAJsiuCh-5kz4Abw)
+
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
   * Fast loading of songs
