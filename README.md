@@ -24,6 +24,7 @@
   * Supports many online radio/streams
   * Supports local files
   * Playlist support (both web/youtube, and local)
+  * custom server prefix
   
   
 ## High professional discord music bot made with ❤️ and javascript
