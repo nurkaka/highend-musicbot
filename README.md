@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+<img align="right" src="https://github.com/mrmotchy/stuff/blob/main/4K-monkey-minimalism-7680x4920-WallpaperHook.com-HD-scaled.jpg" height="200" width="200">
 
 # el música
 
