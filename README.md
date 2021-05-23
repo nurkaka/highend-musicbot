@@ -34,12 +34,12 @@
 ### Watch my YouTube tutorial 
 
 ```bash
-$ youtube.com
+$ click [here](https://github.com/jagrosh/MusicBot/wiki/Setup) to watch my YouTube video !
 ```
 
 ### make sure to join my discord server 
 
 ```bash
-$ https://discord.gg/9ZrzNkzeN4
+$ click here to join my [discord server](https://discord.gg/9ZrzNkzeN4)
 ```
 ![](https://github.com/mrmotchy/stuff/blob/main/Unben111annt.PNG)
