@@ -26,7 +26,7 @@
   * Playlist support (both web/youtube, and local)
   
 ## Example Video 
-![Loading Example...](http://i.imgur.com/Nauagegh.gif)
+![Loading Example...]([img]http://i.imgur.com/Nauagegh.gif[/img])
   
 ## high professional discord music bot 
 
